@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_589ee2e4bd8da7a9aedf9769177975059389bc96/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_429c51d4a77319824378ff30c93b49d88fa34548/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04f8e83ce1a8a8a9733fe618a1deeb20055760b3">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b5629ea54d84eb7e480825230a3dce7d7f6e6846/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_3dbcaf1d4a65aa3d5f5960706369aa8d43379fa0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbb6c832a1ac3a6e3bfed87d61ce93a9a4d2e5d">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa1055fccc80be62d56b15c274cec2add6297dc2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_14fcf95e4a4fd3d530837e6eefe3d13cbff8d478/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_037a14e53f03453f093f47a508d7a52b5916846b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_f7516410f8420cd5e261c0726f394612c4890dee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/mol/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_8f3c6e72f739672802d3777fb3286c9642caf8b8/classes.dex" />
+    </item>
+
+</items>
